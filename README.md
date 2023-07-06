@@ -1,8 +1,6 @@
 # PRISM
 
-This project applies persistent homology analysis, specifically Vietoris-Rips complexes and persistence diagrams, to spectroscopic data. 
-
-The data represents absorption at different wavelengths, and we explore the structure of these data points using tools from computational topology.
+This project applies persistent homology analysis, specifically Vietoris-Rips complexes and persistence diagrams, to spectroscopic computational topology.
 
 -  <sub>Program for Reconstructing Information from Spectral Measurements</sub>
 -  <sub>Program for Robust Insights from Spectral Mapping</sub>
